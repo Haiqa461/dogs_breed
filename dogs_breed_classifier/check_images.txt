@@ -2,7 +2,7 @@ Questions regarding Uploaded Image Classification:
 
 1. Did the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed? If not, report the differences in the classifications.
 
-Answer: I downloaded an image of german shepherd dog from the internet and all three CNN models classified the image as the same and exact breed : "german shepherd, german shepherd dog, german police dog, alsatian"
+Answer: I downloaded an image of Golden retriever dog from the internet and all three CNN models classified the image as the same and exact breed : "Golden retriever, german shepherd dog, german police dog, alsatian"
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 

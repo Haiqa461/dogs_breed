@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/adjust_results4_isadog_hints.py
 #                                                                             
-# PROGRAMMER: 
+# PROGRAMMER: Haiqa Qaiser
 # DATE CREATED:                                 
 # REVISED DATE: 
 # PURPOSE: This is a *hints* file to help guide students in creating the 
