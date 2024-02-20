@@ -75,10 +75,7 @@ def adjust_results4_isadog(results_dic, dogfile):
     my_file.close()
     
     
-    
-    
-    
-    
+ 
     
 #     # Creates dognames dictionary for quick matching to results_dic labels from
 #     # real answer & classifier's answer

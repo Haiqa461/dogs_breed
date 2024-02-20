@@ -19,7 +19,7 @@ Real:                      cat   Classifier:                    tiger cat, cat
 Real:                      dog   Classifier:                    golden retriever
 
                     Dog_2.jpeg: 
-Real:                      dog   Classifier:                  dalmatian, coach dog
+Real:                      dog   Classifier:                  dalmatian
 
                     Dog_3.jpeg: 
 Real:                      dog   Classifier:                    collie  
@@ -38,7 +38,7 @@ PetLabelDog: 0  ClassLabelDog: 0
 Real:                        cat   Classifier:              golden retriever 
 
                     Dog_2.jpeg: 
-Real:                        dog   Classifier:             dalmatian, coach dog
+Real:                        dog   Classifier:             dalmatian 
 PetLabelDog: 1  ClassLabelDog: 0
 
                     Dog_3.jpg: 
@@ -68,9 +68,5 @@ pct_correct_dogs : 50.0
 pct_correct_breed : 100.0
 pct_correct_notdogs : 100.0
 
-INCORRECT Dog/NOT Dog Assignments:
-Real:                        dog   Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
-
-INCORRECT Dog Breed Assignment:
 
 ** Total Elapsed Runtime: 0:0:3

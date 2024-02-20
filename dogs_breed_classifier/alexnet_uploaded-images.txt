@@ -20,7 +20,7 @@ Real:                        dog   Classifier:                golden retriever
  NOT A MATCH:
 
                     Dog_2.jpeg: 
-Real:                      dog    Classifier:             
+Real:                      dog    Classifier:               collie
 
                     Dog_3.jpeg: 
 Real:                       dog   Classifier:              brabancon griffon
@@ -29,21 +29,21 @@ Real:                       dog   Classifier:              brabancon griffon
 
      MATCH:
 
-                    Cat_01.jpg: 
+                    cat.jpeg: 
 Real:                        cat   Classifier:                 tiger cat, cat  
 PetLabelDog: 0  ClassLabelDog: 0
 
-                    Dog_01.jpg: 
-Real:                        dog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian  
+                    Dog_1.jpeg: 
+Real:                        dog   Classifier:                  golden retriever
 PetLabelDog: 1  ClassLabelDog: 1
 
  NOT A MATCH:
 
-                  Chair_01.jpg: 
-Real:                      chair   Classifier:         fire screen, fireguard  
+                   Dog_2.jpeg: 
+Real:                      dog  Classifier:                 great dane
 PetLabelDog: 0  ClassLabelDog: 0
 
-                    Dog_02.jpg: 
+                    Dog_3.jpeg: 
 Real:                        dog   Classifier:              brabancon griffon  
 PetLabelDog: 1  ClassLabelDog: 1
 
