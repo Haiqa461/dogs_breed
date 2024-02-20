@@ -113,14 +113,8 @@ def classify_images(images_dir, results_dic, model):
        # the extend function 
         else:
             results_dic[key].extend([model_label,0])
-    
-    
-    
-    
-    
-    
-    
-    
+
+   
 #     # Defining lists to populate dictionary 
 #     filenames = list(results_dic.keys()) 
 #     pet_labels = list(results_dic.values())
